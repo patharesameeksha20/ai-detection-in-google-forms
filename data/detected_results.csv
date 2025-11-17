@@ -1,0 +1,4 @@
+student,answer,_ai_score,explanation
+Alice,The mitochondria is the powerhouse of the cell.,0.360621746399309,Likely human-written
+Bob,ChatGPT wrote this answer about machine learning models and their importance.,0.3825796400734095,Likely human-written
+Carol,I think the lecture explained well how AI helps automate boring tasks.,0.3197254296830291,Likely human-written
